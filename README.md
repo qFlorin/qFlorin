@@ -11,7 +11,7 @@ My long-term goals include growing into a company where I can continue to learn 
 ## Contact or follow me at:
 
 <a href="https://www.facebook.com/florinpuia23/">
-  <img align="left" width="20px" src="https://image.similarpng.com/very-thumbnail/2020/05/Icon-illustrator-Facebook-PNG.png" />
+  <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />
 </a>
 <a href="florin.puia@gmail.com">
   <img align="left" width="21px" src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" />

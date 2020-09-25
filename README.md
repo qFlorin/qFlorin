@@ -6,6 +6,18 @@ Hi there 👋, I'm Florin, and I'm a passionate Front-end Developer from Romania
 
 My long-term goals include growing into a company where I can continue to learn new things, get new responsibilities, and contribute as much as possible to bringing value to the company and myself as well.
 
+**Personal Infromation:**  
+
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
 **Languages and Tools:**  
 
 <code><img height="25" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code>
@@ -16,7 +28,7 @@ My long-term goals include growing into a company where I can continue to learn 
 <code><img height="25" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png"></code>
 <code><img height="25" src="https://www.uokpl.rs/fpng/f/172-1729529_bootstrap-bootstrap-4.png"></code>
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png"></code>
-<img height="25" src="https://img.icons8.com/color/452/npm.png">
+<code><img height="25" src="https://img.icons8.com/color/452/npm.png"></code>
 <code><img height="25" src="https://image.flaticon.com/icons/png/512/2165/2165004.png"></code>
 
 - 🔭 I’m currently working on a Ecommerce website 

@@ -23,7 +23,7 @@ My long-term goals include growing into a company where I can continue to learn 
   <img align="left" width="21px" src="https://www.freepngimg.com/thumb/logo/62372-computer-neon-instagram-icons-hd-image-free-png.png" />
 </a>
 <a href="https://twitter.com/FlorinPuia1">
-  <img align="left" width="21px" src="https://lh3.googleusercontent.com/proxy/qT5jawMM8GWN5qZOYphlLCMYvTtTdIL9vlkmzjApsRVQIA-iHibNAZMj20gyOXXOjqGZXcMwmDoCa1BFXxAHM1F9JUsfkCZcAO7FdW0g9WR_zHh2EZg" />
+  <img align="left" width="21px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />
 </a>
 
 <br />

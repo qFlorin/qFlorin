@@ -38,7 +38,7 @@ My long-term goals include growing into a company where I can continue to learn 
   <img align="left" width="20px" src="https://lh3.googleusercontent.com/proxy/QHkhU0i9rDbbvWY704zPb45uOvw97duSqo32WygapdxCEs4chR_agdDJU2wzWBllnA2_YY-XVIuiFiHcB6rZaIx5QVmb_YFFYIvHd4pO4DdJDnKWRjmeXf2HTRS24aRybUpy3I20wptKteDKBo4" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" width="20px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />
+  <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" width="20px" src="https://www.uokpl.rs/fpng/f/172-1729529_bootstrap-bootstrap-4.png" />

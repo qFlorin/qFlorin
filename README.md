@@ -1,4 +1,4 @@
-![Front-end Developer](https://github.com/qFlorin/qFlorin/blob/master/pexels-pixabay-270404.jpg)
+![Front-end Developer](https://github.com/qFlorin/qFlorin/blob/master/pexels-negative-space-169573.jpg)
 
 ### Hi there 👋, Florin Puia
 ---

@@ -17,7 +17,9 @@ My long-term goals include growing into a company where I can continue to learn 
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+
 <br />
+
 **Languages and Tools:**  
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" width="20px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
@@ -28,17 +30,27 @@ My long-term goals include growing into a company where I can continue to learn 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" width="20px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" />
 </a>
-
-
-<img height="20" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
-<img height="20" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png">
-<img height="20" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png">
-<img height="20" src="https://www.uokpl.rs/fpng/f/172-1729529_bootstrap-bootstrap-4.png">
-<img height="20" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png">
-<img height="20" src="https://img.icons8.com/color/452/npm.png">
-<img height="20" src="https://image.flaticon.com/icons/png/512/2165/2165004.png">
-
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://www.uokpl.rs/fpng/f/172-1729529_bootstrap-bootstrap-4.png" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://image.flaticon.com/icons/png/512/2165/2165004.png" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://img.icons8.com/color/452/npm.png" />
+</a>
 
 
 

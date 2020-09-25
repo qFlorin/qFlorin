@@ -19,6 +19,8 @@ My long-term goals include growing into a company where I can continue to learn 
 </a>
 
 <br />
+<br />
+<br />
 
 ## Languages and Tools: 
 

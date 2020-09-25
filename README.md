@@ -17,10 +17,10 @@ My long-term goals include growing into a company where I can continue to learn 
   <img align="left" width="21px" src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/florin-puia-330552181/">
-  <img align="left" width="21px" src="https://e7.pngegg.com/pngimages/93/587/png-clipart-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue.png" />
+  <img align="left" width="21px" src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
 </a>
 <a href="https://www.instagram.com/puia94/">
-  <img align="left" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png" />
+  <img align="left" width="21px" src="https://www.freepngimg.com/thumb/logo/62372-computer-neon-instagram-icons-hd-image-free-png.png" />
 </a>
 
 <br />

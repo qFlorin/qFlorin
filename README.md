@@ -8,7 +8,7 @@ My long-term goals include growing into a company where I can continue to learn 
 
 <br />
 
-#### Contact or follow me at:
+### Contact or follow me at:
 
 <a href="https://www.facebook.com/florinpuia23/">
   <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />
@@ -26,7 +26,10 @@ My long-term goals include growing into a company where I can continue to learn 
 <br />
 <br />
 
-#### Languages and Tools: 
+### Languages and Tools: 
+
+___
+***
 
 <a href="https://github.com/qFlorin">
   <img align="left" width="20px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />

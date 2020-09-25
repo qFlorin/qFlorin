@@ -6,7 +6,7 @@ Hi there 👋, I'm Florin, and I'm a passionate Front-end Developer from Romania
 
 My long-term goals include growing into a company where I can continue to learn new things, get new responsibilities, and contribute as much as possible to bringing value to the company and myself as well.
 
-
+<br />
 
 ## Contact or follow me at:
 
@@ -20,7 +20,6 @@ My long-term goals include growing into a company where I can continue to learn 
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-<br />
 <br />
 <br />
 

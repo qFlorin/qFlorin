@@ -17,11 +17,17 @@ My long-term goals include growing into a company where I can continue to learn 
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-
+<br />
 **Languages and Tools:**  
-<a href="#"><img height="20" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></a>
-<a href="#"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-<a href="#"><img height="20" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png"></a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" width="20px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" />
+</a>
 
 
 <img height="20" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">

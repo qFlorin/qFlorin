@@ -20,7 +20,8 @@ My long-term goals include growing into a company where I can continue to learn 
 
 <br />
 
-** Languages and Tools: **  
+## Languages and Tools: 
+
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" width="20px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
 </a>

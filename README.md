@@ -1,6 +1,6 @@
 ### Hi there 👋, Florin Puia
 #### Front-end Developer
-![Front-end Developer](https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
+![Front-end Developer](https://github.com/qFlorin/qFlorin/blob/master/pexels-pixabay-270404.jpg)
 
 I'm Florin, and I'm a passionate Front-end Developer from Romania. I really enjoy learning languages and frameworks like Angular. I also enjoy UI, UX, and design in general. 
 

@@ -10,14 +10,17 @@ My long-term goals include growing into a company where I can continue to learn 
 
 ## Contact or follow me at:
 
-<a href="https://github.com/qFlorin">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://www.facebook.com/florinpuia23/">
+  <img align="left" width="20px" src="https://image.similarpng.com/very-thumbnail/2020/05/Icon-illustrator-Facebook-PNG.png" />
 </a>
-<a href="https://github.com/qFlorin">
-  <img align="left" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="florin.puia@gmail.com">
+  <img align="left" width="21px" src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" />
 </a>
-<a href="https://github.com/qFlorin">
-  <img align="left" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://www.linkedin.com/in/florin-puia-330552181/">
+  <img align="left" width="21px" src="https://e7.pngegg.com/pngimages/93/587/png-clipart-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue.png" />
+</a>
+<a href="https://www.instagram.com/puia94/">
+  <img align="left" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png" />
 </a>
 
 <br />

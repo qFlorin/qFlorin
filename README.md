@@ -6,7 +6,7 @@ Hi there 👋, I'm Florin, and I'm a passionate Front-end Developer from Romania
 
 My long-term goals include growing into a company where I can continue to learn new things, get new responsibilities, and contribute as much as possible to bringing value to the company and myself as well.
 
-**Personal Infromation:**  
+## Contact or follow me at:
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -35,7 +35,7 @@ My long-term goals include growing into a company where I can continue to learn 
   <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" width="20px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />
+  <img align="left" width="20px" src="https://lh3.googleusercontent.com/proxy/QHkhU0i9rDbbvWY704zPb45uOvw97duSqo32WygapdxCEs4chR_agdDJU2wzWBllnA2_YY-XVIuiFiHcB6rZaIx5QVmb_YFFYIvHd4pO4DdJDnKWRjmeXf2HTRS24aRybUpy3I20wptKteDKBo4" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" width="20px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />

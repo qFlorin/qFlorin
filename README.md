@@ -6,6 +6,8 @@ Hi there 👋, I'm Florin, and I'm a passionate Front-end Developer from Romania
 
 My long-term goals include growing into a company where I can continue to learn new things, get new responsibilities, and contribute as much as possible to bringing value to the company and myself as well.
 
+
+
 ## Contact or follow me at:
 
 <a href="https://codesandbox.io/u/anuraghazra">

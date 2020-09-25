@@ -1,6 +1,6 @@
 ![Front-end Developer](https://github.com/qFlorin/qFlorin/blob/master/pexels-negative-space-169573.jpg)
 
-## Florin Puia
+# Florin Puia
 ---
 Hi there 👋, I'm Florin, and I'm a passionate Front-end Developer from Romania. I really enjoy learning languages and frameworks like Javascript, Angular. I also enjoy UI, UX, and design in general. 
 
@@ -26,7 +26,7 @@ My long-term goals include growing into a company where I can continue to learn 
 <br />
 <br />
 
-### Languages and Tools: 
+## Languages and Tools: 
 
 <a href="https://github.com/qFlorin">
   <img align="left" width="20px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />

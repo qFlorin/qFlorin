@@ -2,9 +2,7 @@
 
 # Florin Puia
 
-Hi there 👋, I'm Florin and I'm a passionate Front-end Developer. I really enjoy learning languages and frameworks like Javascript, Angular. I also enjoy UI, UX, and design in general. 
-
-My long-term goals include growing into a company where I can continue to learn new things, get new responsibilities, and contribute as much as possible to bringing value to the company and myself as well.
+Hi there 👋, I'm Florin.
 
 <br />
 

@@ -11,12 +11,7 @@ Hi there 👋
 <a href="https://www.facebook.com/florinpuia23/">
   <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />
 </a>
-<a href="florin.puia@gmail.com">
-  <img align="left" width="21px" src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" />
-</a>
-<a href="https://www.linkedin.com/in/florin-puia-330552181/">
-  <img align="left" width="21px" src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
-</a>
+
 <a href="https://www.instagram.com/puia94/">
   <img align="left" width="21px" src="https://www.freepngimg.com/thumb/logo/62372-computer-neon-instagram-icons-hd-image-free-png.png" />
 </a>

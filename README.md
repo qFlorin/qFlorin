@@ -2,7 +2,7 @@
 
 # Florin Puia
 
-Hi there 👋, I'm Florin.
+Hi there 👋
 
 <br />
 

@@ -15,7 +15,7 @@ Hi there 👋
 <a href="https://www.instagram.com/puia94/">
   <img align="left" width="21px" src="https://www.freepngimg.com/thumb/logo/62372-computer-neon-instagram-icons-hd-image-free-png.png" />
 </a>
-<a href="https://twitter.com/FlorinPuia1">
+<a href="https://x.com/puiadotdev">
   <img align="left" width="21px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />
 </a>
 

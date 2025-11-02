@@ -11,41 +11,11 @@ Hi there, I'm Puia 👋
 A passionate Front-End Developer from Bucharest
 </h3>
 
-<!-- Socials -->
-
-<p align="center">
-<a href="https://x.com/puiadotdev" target="_blank">
-<img align="center" alt="Puia's X Profile" width="30px" src="https://www.google.com/search?q=https://user-images.githubusercontent.com/88904952/234980682-1d752c00-349c-48c5-9b5a-733c52a0910f.png" />
-</a>
-&nbsp; &nbsp;
-<a href="#" target="_blank">
-<img align="center" alt="Puia's LinkedIn Profile" width="30px" src="https://www.google.com/search?q=https://user-images.githubusercontent.com/88904952/234980679-152e3f4f-488b-4b13-a34f-0c3132d7331c.png" />
-</a>
-&nbsp; &nbsp;
-<a href="#" target="_blank">
-<img align="center" alt="Puia's Portfolio Website" width="30px" src="https://www.google.com/search?q=https://user-images.githubusercontent.com/88904952/234980678-b118742b-ed9b-4e38-8902-b3662e08f51a.png" />
-</a>
-</p>
-
-<!-- About Me -->
-
-<p align="left">
-I'm a Front-End Developer with a love for creating clean, intuitive, and beautiful user experiences. I specialize in turning complex problems into simple, elegant solutions. My goal is to build responsive and accessible web applications that not only look great but also perform flawlessly on all devices.
-</p>
-
 🔭 I’m currently working on a cool web project
-
-🌱 I’m currently learning new web technologies
-
-👯 I’m looking to collaborate on interesting open-source projects
-
-💬 Ask me about React, Next.js, TypeScript, and modern CSS
-
-📫 How to reach me: ...
 
 ⚡ Fun fact: ...
 
-<!-- Tech Stack -->
+
 
 <!-- Tech Stack -->
 

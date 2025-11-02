@@ -54,12 +54,12 @@ I'm a Front-End Developer with a love for creating clean, intuitive, and beautif
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,html,css,scss%26theme%3Ddark" alt="Languages"/>
 </a>
 <!-- Frameworks & Libraries -->
-<a href="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,tailwind,redux" target="_blank">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,tailwind,redux%26theme%3Ddark" alt="Frameworks & Libraries"/>
+<a href="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,tailwind,redux,angular,nx" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,tailwind,redux,angular,nx%26theme%3Ddark" alt="Frameworks & Libraries"/>
 </a>
 <!-- Tools & Platforms -->
-<a href="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,vite,webpack,figma,vscode,vercel" target="_blank">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,vite,webpack,figma,vscode,vercel%26theme%3Ddark" alt="Tools & Platforms"/>
+<a href="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vite,webpack,figma,vscode,vercel,gcp,aws,azure" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vite,webpack,figma,vscode,vercel,gcp,aws,azure%26theme%3Ddark" alt="Tools & Platforms"/>
 </a>
 </p>
 
@@ -71,6 +71,16 @@ I'm a Front-End Developer with a love for creating clean, intuitive, and beautif
 
 
 
+
+
+
+
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26layout%3Dcompact%26langs_count%3D6%26theme%3Dradical" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour-github-username%26theme%3Dradical%26column%3D7" alt="GitHub Trophies" />
+</p>
 
 
 

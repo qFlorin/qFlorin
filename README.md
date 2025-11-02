@@ -8,7 +8,7 @@
 Hi there, I'm Puia 👋
 </h1>
 <h3 align="center">
-A passionate Front-End Developer from Your City, Country
+A passionate Front-End Developer from Bucharest
 </h3>
 
 <!-- Socials -->
@@ -41,7 +41,7 @@ I'm a Front-End Developer with a love for creating clean, intuitive, and beautif
 
 💬 Ask me about React, Next.js, TypeScript, and modern CSS
 
-📫 How to reach me: your.email@example.com
+📫 How to reach me: ...
 
 ⚡ Fun fact: ...
 

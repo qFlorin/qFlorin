@@ -1,4 +1,4 @@
-![Front-end Developer](https://images.unsplash.com/photo-1520979384649-4a79c25553fd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070)
+![Front-end Developer](https://images.unsplash.com/photo-1508881136857-d1781947f4d6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170)
 
 # Puia
 

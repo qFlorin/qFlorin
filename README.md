@@ -20,7 +20,7 @@ A passionate Front-End Developer
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
 <!-- Languages -->
-⚡ Fun fact: ...
+⚡ Angular, nx, tailwind and others ...
 </p>
 
 
@@ -30,10 +30,3 @@ A passionate Front-End Developer
 
 
 
-
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26layout%3Dcompact%26langs_count%3D6%26theme%3Dradical" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour-github-username%26theme%3Dradical%26column%3D7" alt="GitHub Trophies" />
-</p>

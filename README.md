@@ -8,38 +8,22 @@
 Hi there, I'm Puia 👋
 </h1>
 <h3 align="center">
-A passionate Front-End Developer from Bucharest
+A passionate Front-End Developer
 </h3>
 
 🔭 I’m currently working on a cool web project
 
 ⚡ Fun fact: ...
 
-
-
 <!-- Tech Stack -->
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
 <!-- Languages -->
-<a href="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,html,css,scss" target="_blank">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,html,css,scss%26theme%3Ddark" alt="Languages"/>
-</a>
-<!-- Frameworks & Libraries -->
-<a href="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,tailwind,redux,angular,nx" target="_blank">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,tailwind,redux,angular,nx%26theme%3Ddark" alt="Frameworks & Libraries"/>
-</a>
-<!-- Tools & Platforms -->
-<a href="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vite,webpack,figma,vscode,vercel,gcp,aws,azure" target="_blank">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vite,webpack,figma,vscode,vercel,gcp,aws,azure%26theme%3Ddark" alt="Tools & Platforms"/>
-</a>
+⚡ Fun fact: ...
 </p>
 
-<!-- GitHub Stats -->
 
-<h3 align="center">My GitHub Stats</h3>
-<p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26theme%3Dradical" alt="GitHub Stats" />
 
 
 

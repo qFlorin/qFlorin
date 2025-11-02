@@ -13,7 +13,7 @@ A passionate Front-End Developer
 
 🔭 I’m currently working on a cool web project
 
-⚡ Fun fact: ...
+⚡ More on the way: ...
 
 <!-- Tech Stack -->
 

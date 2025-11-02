@@ -12,6 +12,7 @@ A passionate Front-End Developer
 </h3>
 
 🔭 I’m currently working on a cool web project
+
 🌱  More on the way: ...
 
 <!-- Tech Stack -->

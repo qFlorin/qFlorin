@@ -47,6 +47,8 @@ I'm a Front-End Developer with a love for creating clean, intuitive, and beautif
 
 <!-- Tech Stack -->
 
+<!-- Tech Stack -->
+
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
 <!-- Languages -->
@@ -71,16 +73,6 @@ I'm a Front-End Developer with a love for creating clean, intuitive, and beautif
 
 
 
-
-
-
-
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26layout%3Dcompact%26langs_count%3D6%26theme%3Dradical" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour-github-username%26theme%3Dradical%26column%3D7" alt="GitHub Trophies" />
-</p>
 
 
 

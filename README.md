@@ -8,7 +8,7 @@
 Hi there, I'm Puia 👋
 </h1>
 <h3 align="center">
-A passionate Front-End Developer
+Front-End Developer
 </h3>
 
 🔭 I’m currently working on a cool web project
